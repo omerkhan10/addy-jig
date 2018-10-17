@@ -5,9 +5,9 @@ Script that makes a CSV file with jigged info
 
 -Make sure to install the correct modules: random, string, names, csv
   -Type this in command prompt:
-   pip install random
-   pip install string
-   pip install names
+   pip install random ,
+   pip install string ,
+   pip install names ,
    pip install csv
    
 -CD into the folder where the script is located and then type this in command prompt:
